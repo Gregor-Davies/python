@@ -1,2 +1,2 @@
 # python
-Just a collection of my python projects
+Just a collection of my python projects!
